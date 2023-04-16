@@ -4,7 +4,7 @@
   </h3>
 
   <p align="center">
-    Flexible efficient seeding strategy for TypeORM
+    A Flexible and efficient seeding strategy for TypeORM applications
   </p>
 </p>
 
@@ -21,9 +21,7 @@
 
 ## About
 
-`nestjs-sage-id` provides a client that exposes a user-friendly interface that
-communicates with the [sage-id API](https://gb-kb.sage.com/portal/app/portlets/results/viewsolution.jsp?solutionid=210226173239343) in order to manage the sage tokens used for
-authentication and authorization to Sage API's.
+TODO
 
 ## Installation
 
@@ -41,8 +39,7 @@ Please include an MRE (Minimal reproducible example) when providing issues.
 
 ## Contributing
 
-All contributions are appreciated. The more, the merrier. Please
-make sure to follow the below guidelines when contributing.
+For contributions please make sure to follow the guidelines below.
 
 1. Fork the repository
 2. Create your branch (`git checkout -b my-branch`)
