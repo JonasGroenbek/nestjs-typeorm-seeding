@@ -1,0 +1,3 @@
+export const SEED_MODULE = 'SEED_MODULE';
+export const SEED_MODULE_OPTIONS = 'SEED_MODULE_OPTIONS';
+export const SEED_CONFIG = 'SEED_CONFIG';
